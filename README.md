@@ -13,18 +13,8 @@ This project performs basic arithmetic operations with a clean and user-friendly
 
 - Lightweight: No external libraries, pure HTML/CSS/JS.
 
-# 📂 Project Structure
-calculator/
-├─ index.html
-├─ css/
-│  └─ style.css
-├─ js/
-│  └─ script.js
-├─ assets/
-│  └─ icons/ 
-└─ README.md
 # 📸 Screenshots
-![](<img width="371" height="529" alt="Capture" src="https://github.com/user-attachments/assets/f94bdca7-9f8c-4de0-8c55-28ba09c83ef0" />)
+![Capture](<img width="371" height="529" alt="Capture" src="https://github.com/user-attachments/assets/f94bdca7-9f8c-4de0-8c55-28ba09c83ef0" />)
 
 
 
